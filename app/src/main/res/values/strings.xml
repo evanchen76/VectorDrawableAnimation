@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VectorDrawableAnimation</string>
+    <string name="rect_path">M8,5 V19 H16 V5</string>
+    <string name="rect2_path">M5,8 V16 H19 V8</string>
+</resources>
